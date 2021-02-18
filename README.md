@@ -5,7 +5,7 @@ Part 1: Directions on Using Webstorm
 
 Part 2: Glossary to include these terms in a bulleted list.
 
-Branch: Typing this alone will show all the branches in our local repo as well as which one we're currently working in.<br>
+Branch: Typing this alone will show all the branches in our local repo as well as which one we're currently working in.
 Clone: If you want to load a separate folder entirely you can clone the specific branch the same way you cloned your repo in the beginning.
 Commit:This typically will commit any "added" files to your local repository.
 Fetch: Downloads any file from remot repository into your local repo.
